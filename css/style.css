@@ -1,0 +1,25 @@
+.getCalculating{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    background-color: dimgrey;
+    border: 5px solid black;
+    color: white;
+    font-size: 40px;
+    text-align: center;
+    margin: 20px;
+}
+
+.inputBox{
+    margin: 25px;
+    width: 100px;
+    height: 100px;
+    font-size: 30px;
+    border: 5px solid black;
+    text-align: center;
+}
+
+.inputDiv{
+    margin: auto;
+    display: block;
+}
